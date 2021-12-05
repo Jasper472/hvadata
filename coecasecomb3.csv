@@ -1,4 +1,4 @@
-﻿month,week,weekofyear,bidding_no,agegroup,vehicle_class,state,premium,value
+﻿month,week,weekofyear,group_no,agegroup,vehicle_class,state,premium,value
 2010-01,14,2021-14,1,18-29,Category A,vaccinated,18502,31
 2010-01,14,2021-14,2,30-49,Category A,vaccinated,20501,30
 2010-01,14,2021-14,3,50-64,Category A,vaccinated,18502,25
